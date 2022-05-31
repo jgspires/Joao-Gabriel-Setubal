@@ -1,9 +1,11 @@
-<h1>👋 Hello!</h1>
+<h1>Hello there! 👋</h1>
 
-<p>I am João Gabriel, a developer and product management assistant at SFLabs and computer science student at UNIFACS. Designing experiences, managing people and seeing people enjoy what I helped create is what keeps me going.</p>
+<p>I am João Gabriel, a developer and product management assistant at SFLabs and computer science undergraduate student. Designing experiences, managing people and seeing people enjoy what I helped create is what drives me the most.</p>
 
-- 🔧 I currently work with TypeScript and Node.js developing RESTful APIs in a microservice environment. Beyond that, I'm always working on a couple of personal projects using C++, JavaScript and other tecnologies. Always striving to keep myself up to date.
-- 🤔 I'm currently focusing most of my learning efforts on deepening my knowledge about backend development, project management and agile methodologies.
+- 🔧 I currently work with TypeScript and Node.js developing RESTful APIs in a microservice environment. Beyond that, I'm constantly working on a couple of personal projects using C++, JavaScript and other tecnologies. Always striving to keep myself up to date.
+- 📖 I'm currently focusing most of my learning efforts on deepening my knowledge about backend development, project management and agile methodologies.
+- 📢 Besides software development, I enjoy leading, facilitating, helping and teaching others. I shine in roles where I am in constant contact with people but I do not shy away from individual work.
+- 🌎 I speak English fluently and have formal international experience.
 - 💬 Please feel free to contact me with any professional inquiries you might have, I always enjoy healthy conversations and meeting new people!
 
 
