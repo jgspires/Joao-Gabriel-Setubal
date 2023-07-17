@@ -3,11 +3,11 @@
 
 <p>I am João Gabriel, a software developer and engineer with a love for backend development, software architecture, and engineering. Solving problems, improving myself, and seeing people enjoy what I helped create are the things that drive me the most.</p>
 
-- 🔧 I currently work with TypeScript and Node.js developing RESTful APIs in a microservice environment. Beyond that, I'm constantly working on a couple of personal projects using C++, JavaScript, Node.js and other tecnologies. Always striving to keep myself up to date.
+- 🔧 I currently work with Java, Python, and monitoring tools such as Grafana and Prometheus in the telecom area. Beyond that, I'm constantly working on a couple of personal projects using C++, JavaScript, Node.js and other technologies. Always striving to keep myself up to date.
 
-- 📖 I'm currently focusing most of my learning efforts on deepening my knowledge about backend development, software architecture, software engineering and agile methodologies.
+- 📖 I'm currently focusing most of my learning efforts on deepening my knowledge about monitoring solutions, AWS, cloud architecture, backend development, software architecture, and software engineering.
 
-- 📢 Besides software development, I enjoy leading, facilitating, helping and teaching others. I shine in roles where I am in constant contact with people but I do not shy away from individual work.
+- 📢 Besides software development, I enjoy leading, facilitating, helping, and teaching others. I shine in roles where I am in constant contact with people but I do not shy away from individual work.
 
 - 🌎 I speak English fluently and have formal international experience.
 
